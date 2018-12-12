@@ -1,2 +1,0 @@
-node process.js
-exit
